@@ -1,0 +1,20 @@
+{
+  "name": "myservice",
+  "version": "1.0.0",
+  "description": "sample for github actions",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "serverless deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamAle-17/gitaction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamAle-17/gitaction/issues"
+  },
+  "homepage": "https://github.com/SamAle-17/gitaction#readme"
+}
