@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SamAle-17/gitaction/issues"
   },
-  "homepage": "https://github.com/SamAle-17/gitaction#readme"
+  "homepage": "https://github.com/SamAle-17/gitaction#readme",
+  "devDependencies": {
+    "serverless": "^2.18.0"
+  }
 }
